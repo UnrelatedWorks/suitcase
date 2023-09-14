@@ -17,14 +17,14 @@ Even while using best AES-Encryption, a 100% security cannot be guranteed. Use p
 While most laws do not hold you accountable for encrypted data stored on your server, local laws may vary. 
 
 ## restrictions
-Max size = 1 GB 
-Each individual can only ship one suitcase
-Child pornography or other shit you wouldn't want on your PC. 
+- Max size = 1 GB 
+- Each individual can only ship one suitcase
+- Child pornography or other shit you wouldn't want on your PC. 
 
 ## help wanted
 ### peers
 While I will try to store as many suitcases as possible, infrastructure is limited. 
-Companies who want to flex their storage speed and love for cummunity are encuragd 
+Companies who want to flex their storage speed and love for community are encuraged to do so. 
 
 ### solution solvers 
 - Double submissions, auth-method needed
